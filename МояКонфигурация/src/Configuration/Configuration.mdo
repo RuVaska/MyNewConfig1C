@@ -39,5 +39,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Основное</subsystems>
   <commonModules>CommonModule.ОбщегоНазначения</commonModules>
 </mdclass:Configuration>
